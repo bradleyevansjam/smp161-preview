@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="com.course.smp161studyguidefinalquiz" version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="ORG-1">
+    <organization identifier="ORG-1">
+      <title>Match-day review</title>
+      <item identifier="ITEM-1" identifierref="RES-1" isvisible="true">
+        <title>Match-day review</title>
+        <adlcp:masteryscore>70</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="brand/afc-logo-dark-green-800.png"/>
+      <file href="brand/afc27-start-picture.jpg"/>
+      <file href="brand/fonts/Ubuntu-Light.ttf"/>
+      <file href="brand/fonts/Ubuntu-Medium.ttf"/>
+      <file href="brand/fonts/Ubuntu-Regular.ttf"/>
+      <file href="fonts/CREDITS.txt"/>
+      <file href="fonts/TwemojiCountryFlags.woff2"/>
+      <file href="icons/client-sign-exit.png"/>
+      <file href="icons/client-sign-lift.png"/>
+      <file href="icons/custom-red-crescent-3d.png"/>
+      <file href="icons/custom-walkie-talkie.svg"/>
+      <file href="icons/custom-wristband.svg"/>
+      <file href="icons/fluent-3d-automobile.png"/>
+      <file href="icons/fluent-3d-backpack.png"/>
+      <file href="icons/fluent-3d-broom.png"/>
+      <file href="icons/fluent-3d-bullseye.png"/>
+      <file href="icons/fluent-3d-busts-in-silhouette.png"/>
+      <file href="icons/fluent-3d-camera.png"/>
+      <file href="icons/fluent-3d-clipboard.png"/>
+      <file href="icons/fluent-3d-compass.png"/>
+      <file href="icons/fluent-3d-door.png"/>
+      <file href="icons/fluent-3d-ear.png"/>
+      <file href="icons/fluent-3d-elevator.png"/>
+      <file href="icons/fluent-3d-eyes.png"/>
+      <file href="icons/fluent-3d-fire.png"/>
+      <file href="icons/fluent-3d-handshake.png"/>
+      <file href="icons/fluent-3d-hourglass-done.png"/>
+      <file href="icons/fluent-3d-light-bulb.png"/>
+      <file href="icons/fluent-3d-magnifying-glass-tilted-left.png"/>
+      <file href="icons/fluent-3d-megaphone.png"/>
+      <file href="icons/fluent-3d-memo.png"/>
+      <file href="icons/fluent-3d-motorway.png"/>
+      <file href="icons/fluent-3d-no-entry.png"/>
+      <file href="icons/fluent-3d-open-book.png"/>
+      <file href="icons/fluent-3d-page-facing-up.png"/>
+      <file href="icons/fluent-3d-person-walking.png"/>
+      <file href="icons/fluent-3d-police-car-light.png"/>
+      <file href="icons/fluent-3d-police-officer.png"/>
+      <file href="icons/fluent-3d-raised-hand.png"/>
+      <file href="icons/fluent-3d-repeat-button.png"/>
+      <file href="icons/fluent-3d-round-pushpin.png"/>
+      <file href="icons/fluent-3d-safety-vest.png"/>
+      <file href="icons/fluent-3d-shield.png"/>
+      <file href="icons/fluent-3d-speaking-head.png"/>
+      <file href="icons/fluent-3d-speech-balloon.png"/>
+      <file href="icons/fluent-3d-sports-medal.png"/>
+      <file href="icons/fluent-3d-stadium.png"/>
+      <file href="icons/fluent-3d-star.png"/>
+      <file href="icons/fluent-3d-stop-sign.png"/>
+      <file href="icons/fluent-3d-telephone.png"/>
+      <file href="icons/fluent-3d-thumbs-up.png"/>
+      <file href="icons/fluent-3d-ticket.png"/>
+      <file href="icons/fluent-3d-up-arrow.png"/>
+      <file href="icons/fluent-3d-vertical-traffic-light.png"/>
+      <file href="icons/fluent-3d-warning.png"/>
+      <file href="icons/fluent-3d-wheelchair-symbol.png"/>
+      <file href="images/smp161-home.jpg"/>
+      <file href="images/smp161-p1.jpg"/>
+      <file href="images/smp161-p10.jpg"/>
+      <file href="images/smp161-p11.jpg"/>
+      <file href="images/smp161-p12.jpg"/>
+      <file href="images/smp161-p13.jpg"/>
+      <file href="images/smp161-p14.jpg"/>
+      <file href="images/smp161-p15.jpg"/>
+      <file href="images/smp161-p16.jpg"/>
+      <file href="images/smp161-p17.jpg"/>
+      <file href="images/smp161-p18.jpg"/>
+      <file href="images/smp161-p19.jpg"/>
+      <file href="images/smp161-p2.jpg"/>
+      <file href="images/smp161-p3.jpg"/>
+      <file href="images/smp161-p4.jpg"/>
+      <file href="images/smp161-p5.jpg"/>
+      <file href="images/smp161-p6.jpg"/>
+      <file href="images/smp161-p7.jpg"/>
+      <file href="images/smp161-p8.jpg"/>
+      <file href="images/smp161-p9.jpg"/>
+      <file href="images/smp161-s1.jpg"/>
+      <file href="images/smp161-s2.jpg"/>
+      <file href="images/smp161-s3.jpg"/>
+      <file href="images/smp161-s4.jpg"/>
+      <file href="images/smp161-s5.jpg"/>
+      <file href="images/smp161-s6.jpg"/>
+      <file href="scorm.js"/>
+      <file href="aids/SMP16.1-Match-day-review-job-aids.pdf"/>
+    </resource>
+  </resources>
+</manifest>
